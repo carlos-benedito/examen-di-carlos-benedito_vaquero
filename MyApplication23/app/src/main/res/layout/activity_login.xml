@@ -81,7 +81,7 @@
         app:layout_constraintEnd_toStartOf="@+id/guideline4"
         app:layout_constraintStart_toStartOf="@+id/guideline2"
         app:layout_constraintTop_toTopOf="@+id/guideline5"
-        app:startIconDrawable="@drawable/ic_persona">
+        app:startIconDrawable="@drawable/ic_llave">
 
         <EditText
             android:backgroundTint="#e3dbd0"
